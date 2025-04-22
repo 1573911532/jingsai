@@ -1,0 +1,16 @@
+{
+  "groups": [
+    {
+      "name": "apis",
+      "type": "com.sang.subjectcompetition.controller.wechat.WxAwardsController",
+      "sourceType": "com.sang.subjectcompetition.controller.wechat.WxAwardsController"
+    },
+    {
+      "name": "file-upload",
+      "type": "com.sang.subjectcompetition.service.util.UploadFileUtils",
+      "sourceType": "com.sang.subjectcompetition.service.util.UploadFileUtils"
+    }
+  ],
+  "properties": [],
+  "hints": []
+}
